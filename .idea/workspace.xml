@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d722d6f8-4a1e-454d-9c19-0900710b302a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1cKJytMnWFCShxfUVGsV5vJzART" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration name="dev:server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev:server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev:server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d722d6f8-4a1e-454d-9c19-0900710b302a" name="Default Changelist" comment="" />
+      <created>1590271608963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590271608963</updated>
+      <workItem from="1590271610604" duration="3330000" />
+      <workItem from="1590327218865" duration="16437000" />
+      <workItem from="1590382994055" duration="3217000" />
+      <workItem from="1590416744094" duration="8562000" />
+      <workItem from="1590446777338" duration="12000" />
+      <workItem from="1596327364148" duration="1196000" />
+    </task>
+    <task id="LOCAL-00001" summary="Atualiza as configurações padrão do template&#10;&#10;Edita a identação para tabs com 4 espaços&#10;Altera o usuário do banco de dados para 'docker'&#10;Atualiza a biblioteca csv-parse">
+      <created>1590422427358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422427358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Envia as migrations de criação das tabelas transactions e categories">
+      <created>1590422471583</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422471583</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cria o model Category que representa a tabela categories">
+      <created>1590422493466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422493466</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cria o model Transaction que representa a tabela transactions">
+      <created>1590422519593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422519593</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cria o model Transaction que representa a tabela transactions">
+      <created>1590422543292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422543292</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Cria o serviço de persistência de novas transações">
+      <created>1590422575908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422575908</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cria o serviço de deleção de transações cadastradas">
+      <created>1590422738767</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422738767</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Cria o repositório de transações&#10;&#10;O repositório contém o método para lisagem de todas as transações&#10;que retorna um array de duas posições ([0] a lista de transações e&#10;[1] o objeto 'balance') e o método de cálculo do objeto 'balance'">
+      <created>1590422996788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422996788</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Configura o multer para upload de arquivos">
+      <created>1590423033848</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590423033848</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Cria o serviço de importação de transações&#10;&#10;O serviço recebe um arquivo CSV e o mapeia, filtrando e salvando as&#10;novas categorias e salvando as transações com seus objetos Category">
+      <created>1590423146130</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590423146130</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Configura as rotas do endpoint /transactions&#10;&#10;Cria a rota de listagem de transações (GET /transactions)&#10;Cria a rota de cadastro de novas transações (POST /transactions)&#10;Cria a rota de deleção de transações cadastradas (DELETE /transactions)&#10;Cria a rota de importação de transações via arquivos CSV com o multer&#10;(POST /transactions/import)">
+      <created>1590423265381</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590423265381</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Atualiza as configurações padrão do template&#10;&#10;Edita a identação para tabs com 4 espaços&#10;Altera o usuário do banco de dados para 'docker'&#10;Atualiza a biblioteca csv-parse" />
+    <MESSAGE value="Envia as migrations de criação das tabelas transactions e categories" />
+    <MESSAGE value="Cria o model Category que representa a tabela categories" />
+    <MESSAGE value="Cria o model Transaction que representa a tabela transactions" />
+    <MESSAGE value="Cria o serviço de persistência de novas transações" />
+    <MESSAGE value="Cria o serviço de deleção de transações cadastradas" />
+    <MESSAGE value="Cria o repositório de transações&#10;&#10;O repositório contém o método para lisagem de todas as transações&#10;que retorna um array de duas posições ([0] a lista de transações e&#10;[1] o objeto 'balance') e o método de cálculo do objeto 'balance'" />
+    <MESSAGE value="Configura o multer para upload de arquivos" />
+    <MESSAGE value="Cria o serviço de importação de transações&#10;&#10;O serviço recebe um arquivo CSV e o mapeia, filtrando e salvando as&#10;novas categorias e salvando as transações com seus objetos Category" />
+    <MESSAGE value="Configura as rotas do endpoint /transactions&#10;&#10;Cria a rota de listagem de transações (GET /transactions)&#10;Cria a rota de cadastro de novas transações (POST /transactions)&#10;Cria a rota de deleção de transações cadastradas (DELETE /transactions)&#10;Cria a rota de importação de transações via arquivos CSV com o multer&#10;(POST /transactions/import)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configura as rotas do endpoint /transactions&#10;&#10;Cria a rota de listagem de transações (GET /transactions)&#10;Cria a rota de cadastro de novas transações (POST /transactions)&#10;Cria a rota de deleção de transações cadastradas (DELETE /transactions)&#10;Cria a rota de importação de transações via arquivos CSV com o multer&#10;(POST /transactions/import)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="235" width="732" height="644" key="#Inspections" timestamp="1590416845957">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="589" y="235" width="732" height="644" key="#Inspections/0.27.1920.1053@0.27.1920.1053" timestamp="1590416845957" />
+    <state x="2059" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596328528543">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2059" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1366.0.1920.1080/0.177.1366.768@1366.0.1920.1080" timestamp="1596328528543" />
+    <state width="914" height="645" key="DebuggerActiveHint" timestamp="1590365998285">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="645" key="DebuggerActiveHint/0.27.1920.1053@0.27.1920.1053" timestamp="1590365998285" />
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog" timestamp="1590422664494">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590422664494" />
+    <state x="684" y="311" key="FileChooserDialogImpl" timestamp="1590446787391">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="684" y="311" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1590446787391" />
+    <state width="1896" height="264" key="GridCell.Tab.0.bottom" timestamp="1590445782705">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="264" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590445782705" />
+    <state width="1896" height="264" key="GridCell.Tab.0.center" timestamp="1590445782703">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="264" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590445782703" />
+    <state width="1896" height="264" key="GridCell.Tab.0.left" timestamp="1590445782700">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="264" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590445782699" />
+    <state width="1896" height="264" key="GridCell.Tab.0.right" timestamp="1590445782704">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="264" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590445782704" />
+    <state width="1896" height="326" key="GridCell.Tab.1.bottom" timestamp="1590370802227">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802227" />
+    <state width="1896" height="326" key="GridCell.Tab.1.center" timestamp="1590370802226">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802226" />
+    <state width="1896" height="326" key="GridCell.Tab.1.left" timestamp="1590370802226">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802226" />
+    <state width="1896" height="326" key="GridCell.Tab.1.right" timestamp="1590370802227">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802227" />
+    <state width="1896" height="326" key="GridCell.Tab.2.bottom" timestamp="1590370802229">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.2.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802229" />
+    <state width="1896" height="326" key="GridCell.Tab.2.center" timestamp="1590370802228">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.2.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802228" />
+    <state width="1896" height="326" key="GridCell.Tab.2.left" timestamp="1590370802228">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.2.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802228" />
+    <state width="1896" height="326" key="GridCell.Tab.2.right" timestamp="1590370802228">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.2.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802228" />
+    <state width="1896" height="326" key="GridCell.Tab.3.bottom" timestamp="1590370802228">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.3.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802228" />
+    <state width="1896" height="326" key="GridCell.Tab.3.center" timestamp="1590370802227">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.3.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802227" />
+    <state width="1896" height="326" key="GridCell.Tab.3.left" timestamp="1590370802227">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.3.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802227" />
+    <state width="1896" height="326" key="GridCell.Tab.3.right" timestamp="1590370802228">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1896" height="326" key="GridCell.Tab.3.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590370802228" />
+    <state x="234" y="188" width="1525" height="737" key="SettingsEditor" timestamp="1590418176980">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="234" y="188" width="1525" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1590418176980" />
+    <state width="604" height="446" key="SwitcherDM" timestamp="1590383926971">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="604" height="446" key="SwitcherDM/0.27.1920.1053@0.27.1920.1053" timestamp="1590383926971" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590423268147">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1590423268147" />
+    <state x="1989" y="259" key="search.everywhere.popup" timestamp="1596327381220">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="259" key="search.everywhere.popup/1366.0.1920.1080/0.177.1366.768@1366.0.1920.1080" timestamp="1596327381220" />
+  </component>
+</project>
